@@ -5,33 +5,38 @@ const products = [
     "id": 1,
     "name": "CALIPLATES FROZEN",
     "category": "fleurs",
-    "image": "https://caliplateseurope.com/wp-content/uploads/2025/09/OVJ6uS6kPNv66UG0r7D.jpg",
+    "image": "https://i.postimg.cc/pTdLPwX2/IMG-0662.jpg",
     "video": "",
     "description": "Caliplates Frozen (étiquette bleu), plus besoin de le présenter qualité de malade avec plusieurs strains!",
     "varieties": [
-      "GELATO",
-      "WEDDING PIE",
-      "TROPICANA"
+      "Triangle Kush",
+      "Alien Mintz",
+      "Garlic Budder",
+      "Sherble",
+      "White Runtz",
+      "Starburst OG",
+      "Kush Mintz",
+      "Rainbow Sherbet"
     ],
     "prices": [
       {
-        "amount": "150€",
+        "amount": "160€",
         "quantity": "5g"
       },
       {
-        "amount": "280€",
+        "amount": "300€",
         "quantity": "10g"
       },
       {
-        "amount": "650€",
+        "amount": "750€",
         "quantity": "25g"
       },
       {
-        "amount": "1200€",
+        "amount": "1350€",
         "quantity": "50g"
       },
       {
-        "amount": "2000€",
+        "amount": "2200€",
         "quantity": "100g"
       }
     ]

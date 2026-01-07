@@ -14,7 +14,9 @@ const siteConfig = {
   "infoPaymentText": "Modes de paiement sécurisés disponibles : Crypto pour les envois postaux, espèces pour les livraisons ile-de-france .",
   "categories": [
     "hash",
+    "hash usa",
     "weed",
-    "coke"
+    "weed usa",
+    "coco"
   ]
 };
