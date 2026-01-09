@@ -3,7 +3,7 @@ const TELEGRAM_USERNAME="Generation_Z_off";
 const products = [
   {
     "id": 1,
-    "name": "Caliplates Frozen 🇺🇸",
+    "name": "Caliplates Frozen 🧊🇺🇸",
     "category": "hash usa",
     "image": "https://i.postimg.cc/pTdLPwX2/IMG-0662.jpg",
     "video": "",
@@ -43,9 +43,9 @@ const products = [
   },
   {
     "id": 2,
-    "name": "Rubis Farm Frozen ",
+    "name": "Rubis Farm Frozen 🧊",
     "category": "hash",
-    "image": "",
+    "image": "https://i.postimg.cc/RFNQsbcQ/rubisfarm.png",
     "video": "",
     "description": "Drop 2K25/2K26 ! On vous a mis des prix de folie !",
     "varieties": [
@@ -73,9 +73,9 @@ const products = [
   },
   {
     "id": 3,
-    "name": "Popeye Static 🇺🇸",
+    "name": "Popeye Static ⚡️🇺🇸",
     "category": "hash usa",
-    "image": "",
+    "image": "https://i.postimg.cc/y8xqP7D0/popeye.png",
     "video": "",
     "description": "NewDrop 2K26 ! Très peu de quantité ...",
     "varieties": [
@@ -108,7 +108,7 @@ const products = [
     "id": 4,
     "name": "Choper Farm Plasma Static ⚡️",
     "category": "hash",
-    "image": "",
+    "image": "https://i.postimg.cc/yNhw6x5G/chopper-PNG.png",
     "video": "",
     "description": "Drop 2K25/2K26 ! Nouveau drop les amis un putain de static exceptionelle !! ",
     "varieties": [
@@ -143,13 +143,14 @@ const products = [
   },
   {
     "id": 5,
-    "name": "Lemon Pinnacle ",
+    "name": "Weed USA 🍀🇺🇸",
     "category": "weed usa",
-    "image": "",
+    "image": "https://i.postimg.cc/pdQH6qBy/Ibigiz.jpg",
     "video": "",
-    "description": "Drop US ! Lemon pinnacle ou Biscotti pour les connaiseur(seuse) ! ",
+    "description": "Drop US 🇺🇸",
     "varieties": [
-      "Lemon Pinnacle / Biscotti"
+      "Lemon Pinnacle",
+      "Biscotti"
     ],
     "prices": [
       {
