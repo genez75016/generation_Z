@@ -46,7 +46,7 @@ const products = [
     "name": "Rubis Farm Frozen 🧊",
     "category": "hash",
     "image": "https://i.postimg.cc/RFNQsbcQ/rubisfarm.png",
-    "video": "https://files.catbox.moe/m826to.MOV",
+    "video": "https://files.catbox.moe/lxi7a0.mp4",
     "description": "Drop 2K25/2K26 ! On vous a mis des prix de folie !",
     "varieties": [
       "Mochilato",
